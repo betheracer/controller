@@ -28,7 +28,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
     compile 'no.nordicsemi.android:log:2.0.0'
-    compile 'no.nordicsemi.android.support.v18:scanner:0.2.0'
+    compile 'no.nordicsemi.android.support.v18:scanner:1.0.0'
 
     compile('org.simpleframework:simple-xml:2.7.1') {
         exclude group: 'stax', module: 'stax-api'
